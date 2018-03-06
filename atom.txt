@@ -1,0 +1,88 @@
+atom-ternjs 对一个对象中拥有的对外提供的属性和方法都能通过suggest的形式提示出来
+atom-beautify 对html、css、js等文件进行格式美化
+atom-html-preview html页面预览
+autoclose-html 让你自动闭合HTML标签
+autocomplete-plus 当输入的时候，提供可能的候选项
+autocomplete-paths 路径提示
+color-picker 颜色选择器
+code-peek 能够快速提示和编辑其他文件中的函数功能，不必要再单独打开那个文件了。
+docblockr 帮助你快速的生成注释
+double-tag 能让同时编辑html的开始与结束标记，写了开始自动写关闭标签
+emmet-atom 提高HTML/CSS代码编写的速度
+fuzzy-finder 能够使用快捷键Ctrl-T或Cmd-T快速发现和打开文件。
+hyperclick和js-hyperclick 这两个插件配合，作用是跳转到变量声明或者定义的地方
+highlight-selected 高亮当前所选文字，双击后全文这个词或者变量都会高亮哦
+jquery-snippets 代码提示，安装完之后要重新启动Atom
+javascript-snippets，输入特殊的字符后自动扩展成对应的 Javascript 代码片段
+linter + linter-jshint H后者依赖前者，jshint用来检查代码
+linter-js-standard 用来使javascript代码格式化
+minimap 源码预览图
+pigments 根据样式值显示对应的颜色
+sync-settings 能够在计算机之间同步已经安装好的包
+tree-view-finder 左边菜单栏显示方式，包含文件大小，创建时间
+atom-react react编写提示
+simplified-chinese-menu 菜单汉化
+file-icons 识别文件图标
+
+
+【------------初始化------------】
+
+打开后去掉勾选“提示引导页面”
+
+
+
+去掉分割线
+File>Setting>Open Config Folder>styles.less
+
+atom-text-editor::shadow .wrap-guide {
+  //隐藏右边的白线
+    visibility: hidden;
+}
+
+修改镜像地址
+npm config set registry https://registry.npm.taobao.org
+
+手动下载：
+1、浏览插件：https://atom.io/packages
+2、安装路径：C:\Users\admin\.atom\packages
+3、文件下载：git clone https://github.com/emmetio/emmet-atom
+4、进入目录：cd emmet-atom
+5、执行安装：npm install
+
+插件git安装路径：
+https://github.com/emmetio/emmet-atom
+https://github.com/atom-minimap/minimap
+https://github.com/mattberkowitz/autoclose-html
+https://github.com/richrace/highlight-selected
+https://github.com/Glavin001/atom-beautify
+https://github.com/atom-community/autocomplete-paths
+https://github.com/orktes/atom-react
+https://github.com/chinakids/atom-simplified-chinese-menu
+https://github.com/nikhilkalige/docblockr
+https://github.com/file-icons/atom 完成后修改文件夹名为file-icons
+https://github.com/lee-dohm/file-type-icons
+
+
+快捷键修改：
+File>Setting>Open Config Folder>keymap.cson
+
+atom-beautify快捷键：
+'.editor':
+	'ctrl-shift-b': 'atom-beautify:beautify-editor'
+
+minimap优化：
+Packages>minimap>Setting>勾上 Absolute Mode
+
+
+编辑显示效果：
+File>Setting>Editer
+自动换行：Soft Wrap
+代码缩进线：Show Indent Guide
+设置行高：Line-Height：2
+设置Tab键：Tab Length:4
+
+隐藏文件：
+1、搜索安装包Tree View，勾选Hide Ignored Names，隐藏忽略则再勾选：Hide VCS Ignored Files
+2、Core>Ignored Name添加node_modules,dist两个文件夹
+3、隐藏忽略文件：HIde VCS Ignored Files
+

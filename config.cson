@@ -1,0 +1,45 @@
+"*":
+  "atom-beautify":
+    css:
+      beautify_on_save: true
+    html:
+      beautify_on_save: true
+    less:
+      beautify_on_save: true
+    sass:
+      beautify_on_save: true
+    scss:
+      beautify_on_save: true
+  core:
+    closeDeletedFileTabs: true
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "node_modules"
+      "dist"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+  editor:
+    fontSize: 16
+    lineHeight: 2
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "5bbf21e1-7e5c-48bd-973a-00d65c665391"
+  minimap:
+    absoluteMode: true
+  "one-light-ui": {}
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
