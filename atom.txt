@@ -1,55 +1,56 @@
-atom-ternjs ¶ÔÒ»¸ö¶ÔÏóÖĞÓµÓĞµÄ¶ÔÍâÌá¹©µÄÊôĞÔºÍ·½·¨¶¼ÄÜÍ¨¹ısuggestµÄĞÎÊ½ÌáÊ¾³öÀ´
-atom-beautify ¶Ôhtml¡¢css¡¢jsµÈÎÄ¼ş½øĞĞ¸ñÊ½ÃÀ»¯
-atom-html-preview htmlÒ³ÃæÔ¤ÀÀ
-autoclose-html ÈÃÄã×Ô¶¯±ÕºÏHTML±êÇ©
-autocomplete-plus µ±ÊäÈëµÄÊ±ºò£¬Ìá¹©¿ÉÄÜµÄºòÑ¡Ïî
-autocomplete-paths Â·¾¶ÌáÊ¾
-color-picker ÑÕÉ«Ñ¡ÔñÆ÷
-code-peek ÄÜ¹»¿ìËÙÌáÊ¾ºÍ±à¼­ÆäËûÎÄ¼şÖĞµÄº¯Êı¹¦ÄÜ£¬²»±ØÒªÔÙµ¥¶À´ò¿ªÄÇ¸öÎÄ¼şÁË¡£
-docblockr °ïÖúÄã¿ìËÙµÄÉú³É×¢ÊÍ
-double-tag ÄÜÈÃÍ¬Ê±±à¼­htmlµÄ¿ªÊ¼Óë½áÊø±ê¼Ç£¬Ğ´ÁË¿ªÊ¼×Ô¶¯Ğ´¹Ø±Õ±êÇ©
-emmet-atom Ìá¸ßHTML/CSS´úÂë±àĞ´µÄËÙ¶È
-fuzzy-finder ÄÜ¹»Ê¹ÓÃ¿ì½İ¼üCtrl-T»òCmd-T¿ìËÙ·¢ÏÖºÍ´ò¿ªÎÄ¼ş¡£
-hyperclickºÍjs-hyperclick ÕâÁ½¸ö²å¼şÅäºÏ£¬×÷ÓÃÊÇÌø×ªµ½±äÁ¿ÉùÃ÷»òÕß¶¨ÒåµÄµØ·½
-highlight-selected ¸ßÁÁµ±Ç°ËùÑ¡ÎÄ×Ö£¬Ë«»÷ºóÈ«ÎÄÕâ¸ö´Ê»òÕß±äÁ¿¶¼»á¸ßÁÁÅ¶
-jquery-snippets ´úÂëÌáÊ¾£¬°²×°ÍêÖ®ºóÒªÖØĞÂÆô¶¯Atom
-javascript-snippets£¬ÊäÈëÌØÊâµÄ×Ö·ûºó×Ô¶¯À©Õ¹³É¶ÔÓ¦µÄ Javascript ´úÂëÆ¬¶Î
-linter + linter-jshint HºóÕßÒÀÀµÇ°Õß£¬jshintÓÃÀ´¼ì²é´úÂë
-linter-js-standard ÓÃÀ´Ê¹javascript´úÂë¸ñÊ½»¯
-minimap Ô´ÂëÔ¤ÀÀÍ¼
-pigments ¸ù¾İÑùÊ½ÖµÏÔÊ¾¶ÔÓ¦µÄÑÕÉ«
-sync-settings ÄÜ¹»ÔÚ¼ÆËã»úÖ®¼äÍ¬²½ÒÑ¾­°²×°ºÃµÄ°ü
-tree-view-finder ×ó±ß²Ëµ¥À¸ÏÔÊ¾·½Ê½£¬°üº¬ÎÄ¼ş´óĞ¡£¬´´½¨Ê±¼ä
-atom-react react±àĞ´ÌáÊ¾
-simplified-chinese-menu ²Ëµ¥ºº»¯
-file-icons Ê¶±ğÎÄ¼şÍ¼±ê
+atom-ternjs å¯¹ä¸€ä¸ªå¯¹è±¡ä¸­æ‹¥æœ‰çš„å¯¹å¤–æä¾›çš„å±æ€§å’Œæ–¹æ³•éƒ½èƒ½é€šè¿‡suggestçš„å½¢å¼æç¤ºå‡ºæ¥
+atom-beautify å¯¹htmlã€cssã€jsç­‰æ–‡ä»¶è¿›è¡Œæ ¼å¼ç¾åŒ–
+atom-html-preview htmlé¡µé¢é¢„è§ˆ
+autoclose-html è®©ä½ è‡ªåŠ¨é—­åˆHTMLæ ‡ç­¾
+autocomplete-plus å½“è¾“å…¥çš„æ—¶å€™ï¼Œæä¾›å¯èƒ½çš„å€™é€‰é¡¹
+autocomplete-paths è·¯å¾„æç¤º
+color-picker é¢œè‰²é€‰æ‹©å™¨
+code-peek èƒ½å¤Ÿå¿«é€Ÿæç¤ºå’Œç¼–è¾‘å…¶ä»–æ–‡ä»¶ä¸­çš„å‡½æ•°åŠŸèƒ½ï¼Œä¸å¿…è¦å†å•ç‹¬æ‰“å¼€é‚£ä¸ªæ–‡ä»¶äº†ã€‚
+docblockr å¸®åŠ©ä½ å¿«é€Ÿçš„ç”Ÿæˆæ³¨é‡Š
+double-tag èƒ½è®©åŒæ—¶ç¼–è¾‘htmlçš„å¼€å§‹ä¸ç»“æŸæ ‡è®°ï¼Œå†™äº†å¼€å§‹è‡ªåŠ¨å†™å…³é—­æ ‡ç­¾
+emmet-atom æé«˜HTML/CSSä»£ç ç¼–å†™çš„é€Ÿåº¦
+fuzzy-finder èƒ½å¤Ÿä½¿ç”¨å¿«æ·é”®Ctrl-Tæˆ–Cmd-Tå¿«é€Ÿå‘ç°å’Œæ‰“å¼€æ–‡ä»¶ã€‚
+hyperclickå’Œjs-hyperclick è¿™ä¸¤ä¸ªæ’ä»¶é…åˆï¼Œä½œç”¨æ˜¯è·³è½¬åˆ°å˜é‡å£°æ˜æˆ–è€…å®šä¹‰çš„åœ°æ–¹
+highlight-selected é«˜äº®å½“å‰æ‰€é€‰æ–‡å­—ï¼ŒåŒå‡»åå…¨æ–‡è¿™ä¸ªè¯æˆ–è€…å˜é‡éƒ½ä¼šé«˜äº®å“¦
+jquery-snippets ä»£ç æç¤ºï¼Œå®‰è£…å®Œä¹‹åè¦é‡æ–°å¯åŠ¨Atom
+javascript-snippetsï¼Œè¾“å…¥ç‰¹æ®Šçš„å­—ç¬¦åè‡ªåŠ¨æ‰©å±•æˆå¯¹åº”çš„ Javascript ä»£ç ç‰‡æ®µ
+linter + linter-jshint Håè€…ä¾èµ–å‰è€…ï¼Œjshintç”¨æ¥æ£€æŸ¥ä»£ç 
+linter-js-standard ç”¨æ¥ä½¿javascriptä»£ç æ ¼å¼åŒ–
+minimap æºç é¢„è§ˆå›¾
+pigments æ ¹æ®æ ·å¼å€¼æ˜¾ç¤ºå¯¹åº”çš„é¢œè‰²
+sync-settings èƒ½å¤Ÿåœ¨è®¡ç®—æœºä¹‹é—´åŒæ­¥å·²ç»å®‰è£…å¥½çš„åŒ…
+tree-view-finder å·¦è¾¹èœå•æ æ˜¾ç¤ºæ–¹å¼ï¼ŒåŒ…å«æ–‡ä»¶å¤§å°ï¼Œåˆ›å»ºæ—¶é—´
+atom-react reactç¼–å†™æç¤º
+simplified-chinese-menu èœå•æ±‰åŒ–
+file-icons è¯†åˆ«æ–‡ä»¶å›¾æ ‡
+open-in-browser åœ¨æµè§ˆå™¨æ‰“å¼€æŸ¥çœ‹
 
 
-¡¾------------³õÊ¼»¯------------¡¿
+ã€------------åˆå§‹åŒ–------------ã€‘
 
-´ò¿ªºóÈ¥µô¹´Ñ¡¡°ÌáÊ¾Òıµ¼Ò³Ãæ¡±
+æ‰“å¼€åå»æ‰å‹¾é€‰â€œæç¤ºå¼•å¯¼é¡µé¢â€
 
 
 
-È¥µô·Ö¸îÏß
+å»æ‰åˆ†å‰²çº¿
 File>Setting>Open Config Folder>styles.less
 
 atom-text-editor::shadow .wrap-guide {
-  //Òş²ØÓÒ±ßµÄ°×Ïß
+  //éšè—å³è¾¹çš„ç™½çº¿
     visibility: hidden;
 }
 
-ĞŞ¸Ä¾µÏñµØÖ·
+ä¿®æ”¹é•œåƒåœ°å€
 npm config set registry https://registry.npm.taobao.org
 
-ÊÖ¶¯ÏÂÔØ£º
-1¡¢ä¯ÀÀ²å¼ş£ºhttps://atom.io/packages
-2¡¢°²×°Â·¾¶£ºC:\Users\admin\.atom\packages
-3¡¢ÎÄ¼şÏÂÔØ£ºgit clone https://github.com/emmetio/emmet-atom
-4¡¢½øÈëÄ¿Â¼£ºcd emmet-atom
-5¡¢Ö´ĞĞ°²×°£ºnpm install
+æ‰‹åŠ¨ä¸‹è½½ï¼š
+1ã€æµè§ˆæ’ä»¶ï¼šhttps://atom.io/packages
+2ã€å®‰è£…è·¯å¾„ï¼šC:\Users\admin\.atom\packages
+3ã€æ–‡ä»¶ä¸‹è½½ï¼šgit clone https://github.com/emmetio/emmet-atom
+4ã€è¿›å…¥ç›®å½•ï¼šcd emmet-atom
+5ã€æ‰§è¡Œå®‰è£…ï¼šnpm install
 
-²å¼şgit°²×°Â·¾¶£º
+æ’ä»¶gitå®‰è£…è·¯å¾„ï¼š
 https://github.com/emmetio/emmet-atom
 https://github.com/atom-minimap/minimap
 https://github.com/mattberkowitz/autoclose-html
@@ -59,30 +60,30 @@ https://github.com/atom-community/autocomplete-paths
 https://github.com/orktes/atom-react
 https://github.com/chinakids/atom-simplified-chinese-menu
 https://github.com/nikhilkalige/docblockr
-https://github.com/file-icons/atom Íê³ÉºóĞŞ¸ÄÎÄ¼ş¼ĞÃûÎªfile-icons
+https://github.com/file-icons/atom å®Œæˆåä¿®æ”¹æ–‡ä»¶å¤¹åä¸ºfile-icons
 https://github.com/lee-dohm/file-type-icons
+https://github.com/magbicaleman/open-in-browser.git
 
 
-¿ì½İ¼üĞŞ¸Ä£º
+å¿«æ·é”®ä¿®æ”¹ï¼š
 File>Setting>Open Config Folder>keymap.cson
 
-atom-beautify¿ì½İ¼ü£º
+atom-beautifyå¿«æ·é”®ï¼š
 '.editor':
 	'ctrl-shift-b': 'atom-beautify:beautify-editor'
 
-minimapÓÅ»¯£º
-Packages>minimap>Setting>¹´ÉÏ Absolute Mode
+minimapä¼˜åŒ–ï¼š
+Packages>minimap>Setting>å‹¾ä¸Š Absolute Mode
 
 
-±à¼­ÏÔÊ¾Ğ§¹û£º
+ç¼–è¾‘æ˜¾ç¤ºæ•ˆæœï¼š
 File>Setting>Editer
-×Ô¶¯»»ĞĞ£ºSoft Wrap
-´úÂëËõ½øÏß£ºShow Indent Guide
-ÉèÖÃĞĞ¸ß£ºLine-Height£º2
-ÉèÖÃTab¼ü£ºTab Length:4
+è‡ªåŠ¨æ¢è¡Œï¼šSoft Wrap
+ä»£ç ç¼©è¿›çº¿ï¼šShow Indent Guide
+è®¾ç½®è¡Œé«˜ï¼šLine-Heightï¼š2
+è®¾ç½®Tabé”®ï¼šTab Length:4
 
-Òş²ØÎÄ¼ş£º
-1¡¢ËÑË÷°²×°°üTree View£¬¹´Ñ¡Hide Ignored Names£¬Òş²ØºöÂÔÔòÔÙ¹´Ñ¡£ºHide VCS Ignored Files
-2¡¢Core>Ignored NameÌí¼Ónode_modules,distÁ½¸öÎÄ¼ş¼Ğ
-3¡¢Òş²ØºöÂÔÎÄ¼ş£ºHIde VCS Ignored Files
-
+éšè—æ–‡ä»¶ï¼š
+1ã€æœç´¢å®‰è£…åŒ…Tree Viewï¼Œå‹¾é€‰Hide Ignored Namesï¼Œéšè—å¿½ç•¥åˆ™å†å‹¾é€‰ï¼šHide VCS Ignored Files
+2ã€Core>Ignored Nameæ·»åŠ node_modules,distä¸¤ä¸ªæ–‡ä»¶å¤¹
+3ã€éšè—å¿½ç•¥æ–‡ä»¶ï¼šHIde VCS Ignored Files
