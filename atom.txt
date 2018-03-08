@@ -63,6 +63,7 @@ https://github.com/nikhilkalige/docblockr
 https://github.com/file-icons/atom 完成后修改文件夹名为file-icons
 https://github.com/lee-dohm/file-type-icons
 https://github.com/magbicaleman/open-in-browser.git
+https://github.com/abe33/atom-pigments
 
 
 快捷键修改：
@@ -87,3 +88,6 @@ File>Setting>Editer
 1、搜索安装包Tree View，勾选Hide Ignored Names，隐藏忽略则再勾选：Hide VCS Ignored Files
 2、Core>Ignored Name添加node_modules,dist两个文件夹
 3、隐藏忽略文件：HIde VCS Ignored Files
+
+
+//推荐文档：https://github.com/futantan/atom
