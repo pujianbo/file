@@ -90,4 +90,4 @@ File>Setting>Editer
 3、隐藏忽略文件：HIde VCS Ignored Files
 
 
-//推荐文档：https://github.com/futantan/atom
+//文档说明：https://github.com/futantan/atom
