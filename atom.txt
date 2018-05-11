@@ -24,6 +24,9 @@ atom-react react编写提示
 simplified-chinese-menu 菜单汉化
 file-icons 识别文件图标
 open-in-browser 在浏览器打开查看
+react-snippets React代码快捷键提示
+html-shortcuts-react 提示HTML代码
+atom-react-native-css 写React style提示
 
 
 【------------初始化------------】
