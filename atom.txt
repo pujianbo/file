@@ -23,6 +23,7 @@ tree-view-finder 左边菜单栏显示方式，包含文件大小，创建时间
 atom-react react编写提示
 simplified-chinese-menu 菜单汉化
 file-icons 识别文件图标
+file-type-icons 配合使用
 open-in-browser 在浏览器打开查看
 react-snippets React代码快捷键提示
 html-shortcuts-react 提示HTML代码
