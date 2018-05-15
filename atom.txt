@@ -1,33 +1,37 @@
-atom-ternjs 对一个对象中拥有的对外提供的属性和方法都能通过suggest的形式提示出来
+【必备】
 atom-beautify 对html、css、js等文件进行格式美化
-atom-html-preview html页面预览
 autoclose-html 让你自动闭合HTML标签
-autocomplete-plus 当输入的时候，提供可能的候选项
 autocomplete-paths 路径提示
+emmet-atom 提高HTML/CSS代码编写的速度
+highlight-selected 高亮当前所选文字，双击后全文这个词或者变量都会高亮哦
+minimap 源码预览图
+pigments 根据样式值显示对应的颜色
+tree-view-finder 左边菜单栏显示方式，包含文件大小，创建时间
+atom-react react编写提示
+react-snippets React代码快捷键提示
+html-shortcuts-react 提示HTML代码
+atom-react-native-css 写React style提示
+file-icons 识别文件图标
+file-type-icons 配合使用
+open-in-browser 在浏览器打开查看
+
+atom-ternjs 对一个对象中拥有的对外提供的属性和方法都能通过suggest的形式提示出来
+atom-html-preview html页面预览
+autocomplete-plus 当输入的时候，提供可能的候选项
 color-picker 颜色选择器
 code-peek 能够快速提示和编辑其他文件中的函数功能，不必要再单独打开那个文件了。
 docblockr 帮助你快速的生成注释
 double-tag 能让同时编辑html的开始与结束标记，写了开始自动写关闭标签
-emmet-atom 提高HTML/CSS代码编写的速度
 fuzzy-finder 能够使用快捷键Ctrl-T或Cmd-T快速发现和打开文件。
 hyperclick和js-hyperclick 这两个插件配合，作用是跳转到变量声明或者定义的地方
-highlight-selected 高亮当前所选文字，双击后全文这个词或者变量都会高亮哦
 jquery-snippets 代码提示，安装完之后要重新启动Atom
 javascript-snippets，输入特殊的字符后自动扩展成对应的 Javascript 代码片段
 linter + linter-jshint H后者依赖前者，jshint用来检查代码
 linter-js-standard 用来使javascript代码格式化
-minimap 源码预览图
-pigments 根据样式值显示对应的颜色
 sync-settings 能够在计算机之间同步已经安装好的包
-tree-view-finder 左边菜单栏显示方式，包含文件大小，创建时间
-atom-react react编写提示
 simplified-chinese-menu 菜单汉化
-file-icons 识别文件图标
-file-type-icons 配合使用
-open-in-browser 在浏览器打开查看
-react-snippets React代码快捷键提示
-html-shortcuts-react 提示HTML代码
-atom-react-native-css 写React style提示
+language-vue vue提示，文件识别
+
 
 
 【------------初始化------------】
