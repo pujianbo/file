@@ -29,10 +29,9 @@
       "one-light-syntax"
     ]
   editor:
-    fontSize: 16
-    lineHeight: 2
+    fontSize: 15
+    showIndentGuide: true
     softWrap: true
-    tabLength: 4
   "exception-reporting":
     userId: "5bbf21e1-7e5c-48bd-973a-00d65c665391"
   minimap:
