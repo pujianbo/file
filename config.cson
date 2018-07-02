@@ -1,9 +1,7 @@
 "*":
   "atom-beautify":
-    css:
-      beautify_on_save: true
-    html:
-      beautify_on_save: true
+    css: {}
+    html: {}
     less:
       beautify_on_save: true
     sass:
