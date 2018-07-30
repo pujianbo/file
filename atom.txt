@@ -99,3 +99,7 @@ File>Setting>Editer
 
 
 //文档说明：https://github.com/futantan/atom
+
+【------------其他说明------------】
+token：baeeac6fcf1763ac7e6049224766226812cfa126
+gist Id：atom
