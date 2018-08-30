@@ -3,8 +3,9 @@ atom-beautify 对html、css、js等文件进行格式美化
 autoclose-html 让你自动闭合HTML标签
 autocomplete-paths 路径提示
 emmet-atom 提高HTML/CSS代码编写的速度
-highlight-selected 高亮当前所选文字，双击后全文这个词或者变量都会高亮哦
 minimap 源码预览图
+minimap-highlight-selected 预览图中也显示选择的位置
+highlight-selected 高亮当前所选文字，双击后全文这个词或者变量都会高亮哦
 pigments 根据样式值显示对应的颜色
 tree-view-finder 左边菜单栏显示方式，包含文件大小，创建时间
 atom-react react编写提示
@@ -13,6 +14,11 @@ html-shortcuts-react 提示HTML代码
 atom-react-native-css 写React style提示
 file-icons 识别文件图标
 file-type-icons 配合使用
+hyperclick + js-hyperclick代码跳转
+script 运行脚本，支持多种开发语言
+platformio-ide-terminal 系统控制台
+atom-js-console 浏览器控制台
+merge-conflicts 处理git合并产生冲突的文件
 open-in-browser 在浏览器打开查看
 
 atom-ternjs 对一个对象中拥有的对外提供的属性和方法都能通过suggest的形式提示出来
@@ -99,6 +105,7 @@ File>Setting>Editer
 
 
 //文档说明：https://github.com/futantan/atom
+//必备插件：https://www.jianshu.com/p/eac1879cb2e9
 
 【------------其他说明------------】
 token：baeeac6fcf1763ac7e6049224766226812cfa126

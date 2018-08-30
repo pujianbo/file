@@ -32,5 +32,6 @@
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#_cson
 '.editor':
 	'ctrl-shift-b': 'atom-beautify:beautify-editor'
+	'ctrl-shift-j': 'js-console:toggle'
 	'ctrl-shift-a': 'application:open-folder'
 	'ctrl-shift-o': 'application:add-project-folder'
