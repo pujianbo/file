@@ -1,4 +1,8 @@
-【必备】
+======================================Atom插件安装说明文档======================================
+
+快捷安装：先安装Sync Settings，填写token和gistID后，获取配置后自动安装，详情见页底说明
+
+【必备插件】
 atom-beautify 对html、css、js等文件进行格式美化
 autoclose-html 让你自动闭合HTML标签
 autocomplete-paths 路径提示
@@ -20,6 +24,7 @@ platformio-ide-terminal 系统控制台
 atom-js-console 浏览器控制台
 merge-conflicts 处理git合并产生冲突的文件
 open-in-browser 在浏览器打开查看
+sync-settings 能够在计算机之间同步已经安装好的包
 
 atom-ternjs 对一个对象中拥有的对外提供的属性和方法都能通过suggest的形式提示出来
 atom-html-preview html页面预览
@@ -34,17 +39,12 @@ jquery-snippets 代码提示，安装完之后要重新启动Atom
 javascript-snippets，输入特殊的字符后自动扩展成对应的 Javascript 代码片段
 linter + linter-jshint H后者依赖前者，jshint用来检查代码
 linter-js-standard 用来使javascript代码格式化
-sync-settings 能够在计算机之间同步已经安装好的包
 simplified-chinese-menu 菜单汉化
 language-vue vue提示，文件识别
 
 
-
-【------------初始化------------】
-
+【初始化】
 打开后去掉勾选“提示引导页面”
-
-
 
 去掉分割线
 File>Setting>Open Config Folder>styles.less
@@ -107,6 +107,13 @@ File>Setting>Editer
 //文档说明：https://github.com/futantan/atom
 //必备插件：https://www.jianshu.com/p/eac1879cb2e9
 
-【------------其他说明------------】
-token：baeeac6fcf1763ac7e6049224766226812cfa126
-gist Id：atom
+【sync-settings配置说明】
+tokenName：atomTokenUse
+tokenValue：f6f61d0bde4c4527b80ee18b96a522f4c5804936
+
+gistName：atom
+gistID：aeb2c68a60d851877a4b4b518c326300
+
+操作流程：ctrl + shift + P ，输入Sync Settings: Backup提交备份，输入Sync Settings: Restore获取配置。
+
+参看说明文档：https://www.jianshu.com/p/4e0b5dc2a52a

@@ -21,20 +21,38 @@
       "node_modules"
       "dist"
     ]
+    packagesWithKeymapsDisabled: []
     telemetryConsent: "no"
     themes: [
       "one-light-ui"
       "one-light-syntax"
     ]
+    uriHandlerRegistration: "never"
   editor:
-    fontSize: 15
+    fontSize: 17
     showIndentGuide: true
     softWrap: true
   "exception-reporting":
     userId: "5bbf21e1-7e5c-48bd-973a-00d65c665391"
+  "file-icons": {}
   minimap:
     absoluteMode: true
+    adjustAbsoluteModeHeight: true
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
   "one-light-ui": {}
+  "sync-settings":
+    _lastBackupHash: "800881392953aece2284612f1c3323b9157b4cb2"
+    gistId: "aeb2c68a60d851877a4b4b518c326300"
+    personalAccessToken: "f6f61d0bde4c4527b80ee18b96a522f4c5804936"
+  "terminal-plus":
+    core: {}
+    style: {}
+    toggles:
+      autoClose: true
+      cursorBlink: false
+      runInsertedText: false
   "tree-view":
     hideIgnoredNames: true
     hideVcsIgnoredFiles: true
