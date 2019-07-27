@@ -21,6 +21,7 @@ file-type-icons 配合使用
 hyperclick + js-hyperclick代码跳转
 script 运行脚本，支持多种开发语言
 platformio-ide-terminal 系统控制台
+atom-terminal 系統控制台打开快捷键  ctrl-shift-t 当前路径, alt-shift-t当前项目
 atom-js-console 浏览器控制台
 merge-conflicts 处理git合并产生冲突的文件
 open-in-browser 在浏览器打开查看
