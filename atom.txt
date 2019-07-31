@@ -18,15 +18,15 @@ html-shortcuts-react 提示HTML代码
 atom-react-native-css 写React style提示
 file-icons 识别文件图标
 file-type-icons 配合使用
-hyperclick + js-hyperclick代码跳转
 script 运行脚本，支持多种开发语言
 platformio-ide-terminal 系统控制台
+hyperclick, js-hyperclick, css-hyperclick, file-hyperclick文件跳转
 atom-terminal 系統控制台打开快捷键  ctrl-shift-t 当前路径, alt-shift-t当前项目
 atom-js-console 浏览器控制台
-merge-conflicts 处理git合并产生冲突的文件
-open-in-browser 在浏览器打开查看
 sync-settings 能够在计算机之间同步已经安装好的包
 
+merge-conflicts 处理git合并产生冲突的文件
+open-in-browser 在浏览器打开查看
 atom-ternjs 对一个对象中拥有的对外提供的属性和方法都能通过suggest的形式提示出来
 atom-html-preview html页面预览
 autocomplete-plus 当输入的时候，提供可能的候选项
