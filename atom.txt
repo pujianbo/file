@@ -1,5 +1,9 @@
 ======================================Atom插件安装说明文档======================================
 
+第一件事：修改镜像
+apm config set registry http://registry.npm.taobao.org
+apm config set registry https://npm.taobao.org/mirrors/atom
+
 快捷安装：先安装Sync Settings，填写token和gistID后，获取配置后自动安装，详情见页底说明
 
 【必备插件】
@@ -19,7 +23,7 @@ atom-react-native-css 写React style提示
 file-icons 识别文件图标
 file-type-icons 配合使用
 script 运行脚本，支持多种开发语言
-atom-ide-terminal 系统控制台
+platformio-ide-terminal 系统控制台
 atom-terminal 系統控制台打开快捷键  ctrl-shift-t 当前路径, alt-shift-t当前项目
 atom-js-console 浏览器控制台
 hyperclick, js-hyperclick, css-hyperclick, file-hyperclick文件跳转
