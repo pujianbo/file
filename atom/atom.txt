@@ -42,7 +42,7 @@ fuzzy-finder 能够使用快捷键Ctrl-T或Cmd-T快速发现和打开文件。
 hyperclick和js-hyperclick 这两个插件配合，作用是跳转到变量声明或者定义的地方
 jquery-snippets 代码提示，安装完之后要重新启动Atom
 javascript-snippets，输入特殊的字符后自动扩展成对应的 Javascript 代码片段
-linter + linter-jshint H后者依赖前者，jshint用来检查代码
+linter + linter-jshint 后者依赖前者，jshint用来检查代码
 linter-js-standard 用来使javascript代码格式化
 simplified-chinese-menu 菜单汉化
 language-vue vue提示，文件识别
